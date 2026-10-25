@@ -39,7 +39,7 @@ I'm a Computer Science Engineering student passionate about building practical s
 - Integrated contest APIs to retrieve schedules and support coding practice planning.
 
 🔹 **[Flask Task Manager](https://github.com/Veerareddy29/flask-task-manager)**  
-A Python Flask web application designed to organize tasks and simplify task management.
+- A Python Flask web application designed to organize tasks and simplify task management.
 
 ---
 
